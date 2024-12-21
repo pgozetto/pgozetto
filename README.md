@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pgozetto
 - 👀 I’m interested in Backend applications
-- 🌱 I’m currently learning Git & GitHub, Golang, TypeScript, React (Native), Electron JS
+- 🌱 I’m currently learning ###
 - 💞️ I’m looking to collaborate on every type of project (but i preffer backend projects)
 - 📫 How to reach me: pgozetto@gmail.com
 - 😄 Pronouns: He/Him
