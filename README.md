@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @pgozetto
-- 👀 I’m interested in Backend applications
-- 🌱 I’m currently learning ###
-- 💞️ I’m looking to collaborate on every type of project (but i preffer backend projects)
-- 📫 How to reach me: pgozetto@gmail.com
-- 😄 Pronouns: He/Him
+# 👋 Hello! I’m Pedro Gozetto!
 
-<!---
-pgozetto/pgozetto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Studying at IFSP (Brazil)
+
+### Solo Dev, focused on doing things I like
+---
+## What I do?
+- I do Applications based on my necessity's (Like BackPy and BSS Calculator)
+- I do Backend applications and server side things
+## Skills & Tools:
+- **Languages:** Python (advanced), TypeScript (intermediare), MySQL (intermediare)
+- **Skills:** OOP (Oriented Object Programming), Functional Programming, Servers in general
+## 📫 How to reach me:
+-  Email: pedro@gozetto.com
+-  Discord: pgozetto
